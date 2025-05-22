@@ -1,5 +1,3 @@
-# **DOCX-to-PDF-Converter**
-
 # DOCX to PDF Converter
 
 This project is a web-based application that converts DOCX files to PDF. It is built with a *React frontend* and a *Node.js backend*, enabling users to upload DOCX files and receive converted PDFs in a seamless manner.
@@ -53,4 +51,4 @@ cd docx-to-pdf-converter
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Himanshu554466/Doc_To_Pdf/blob/7057dabde898287d356a5d821b6f6076eab4b5dd/docx-to-pdf.png?raw=true)
+![App Screenshot](https://github.com/Rahulkr1001/Doc_To_Pdf/blob/7057dabde898287d356a5d821b6f6076eab4b5dd/docx-to-pdf.png?raw=true)
